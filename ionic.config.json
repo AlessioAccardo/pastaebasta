@@ -1,0 +1,7 @@
+{
+  "name": "pastaebasta",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
